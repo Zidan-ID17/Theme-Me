@@ -2,9 +2,10 @@
 
 ## Informasi
 
-[![Build](https://img.shields.io/badge/Author%20By-Zidan_IDz%20ID-blue?style=for-the-badge&logo=appveyor)]()<br>
-[![Build](https://img.shields.io/badge/THEME-ME beta.0-blue.svg?maxAge=259200)]()
+[![Build](https://img.shields.io/badge/Author%20By-Zidan%20IDz-blue?style=for-the-badge&logo=appveyor)]()<br>
+[![Build](https://img.shields.io/badge/THEME-ME%20beta.0-blue.svg?maxAge=259200)](https://link-ke-halaman-tema)
 [![Build](https://img.shields.io/badge/Code-Python3.11.6-blue.svg)]()
+
 
 
 # Deskripsi
