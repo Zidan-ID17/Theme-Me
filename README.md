@@ -9,7 +9,7 @@
 "Theme-Me" adalah sebuah Tools yang dibuat khusus untuk meningkatkan pengalaman pengguna Termux dengan menyediakan opsi untuk mengubah tampilan menjadi lebih menarik dan keren.<br>
 
 ## Gambar
-![Halaman 1 ](https://i.ibb.co/PTfRpCV/Screenshot-20231209-133957-2.png)
+![Halaman 1 ](https://i.ibb.co/nDYzmxT/20231209-185718.jpg)
 
 ## Instalasi 
 Anda dapat mengunjungi [Channel Ini](https://www.youtube.com/@ZeyShyy.).
