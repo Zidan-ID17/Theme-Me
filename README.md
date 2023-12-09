@@ -12,4 +12,4 @@
 ![Halaman 1 ](https://i.ibb.co/PTfRpCV/Screenshot-20231209-133957-2.png)
 
 ## Instalasi 
-Anda dapat mengunjungi [Video Ini](https://www.example.com).
+Anda dapat mengunjungi [Channel Ini](https://www.youtube.com/@ZeyShyy.).
