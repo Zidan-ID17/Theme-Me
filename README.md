@@ -10,3 +10,6 @@
 
 ## Gambar
 ![Halaman 1 Tools](https://i.ibb.co/PTfRpCV/Screenshot-20231209-133957-2.png)
+
+## Instalasi 
+Anda dapat mengunjungi [Video Ini](https://www.example.com).
