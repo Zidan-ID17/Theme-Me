@@ -6,10 +6,10 @@
 [![Build](https://img.shields.io/badge/Code-Python2.7-%23FF0000.svg)]()
 
 ## Deskripsi
-"Theme-Me" adalah sebuah Tools yang dibuat khusus untuk meningkatkan pengalaman pengguna Termux dengan menyediakan opsi untuk mengubah tampilan menjadi lebih menarik dan keren.<br>
+"Theme-Me" adalah sebuah Tools Sederhana yang dibuat khusus untuk meningkatkan pengalaman pengguna Termux dengan menyediakan opsi untuk mengubah tampilan menjadi lebih menarik dan keren.<br>
 
 ## Gambar
-![Halaman 1 ](https://i.ibb.co/nDYzmxT/20231209-185718.jpg)
+![Halaman 1 ](https://i.ibb.co/p1pmhj5/20231212-092636.jpg)
 
 ## Instalasi 
 Anda dapat mengunjungi [Channel Ini](https://www.youtube.com/@ZeyShyy.).
