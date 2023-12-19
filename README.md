@@ -1,7 +1,7 @@
 # THEME-ME 
 
 ## Informasi
-[![Build](https://img.shields.io/badge/Author%20By-Zidan%20IDz-%23FF0000?style=for-the-badge&logo=appveyor)]()<br>
+[![Build](https://img.shields.io/badge/Author%20By-Zidan%20IDz-%23FF0000?style=for-the-badge&logo=github)]()<br>
 [![Build](https://img.shields.io/badge/THEME-ME-%23FF0000.svg?maxAge=259200)](https://link-ke-halaman-tema)
 [![Build](https://img.shields.io/badge/Code-Python-%23FF0000.svg)]()
 
