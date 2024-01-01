@@ -8,7 +8,7 @@
 </a><br>
 
 <a href="https://link-ke-halaman-tema">
-  <img src="https://img.shields.io/badge/THEME-ME-%23FF0000.svg?maxAge=259200" alt="Build">
+  <img src="https://img.shields.io/badge/Version-Beta(0.0.5)-%23FF0000.svg?maxAge=259200" alt="Build">
 </a>
 
 <a>
