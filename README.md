@@ -1,4 +1,6 @@
-# THEME-ME 
+<div style="text-align: center;">
+  <img src="img/logo.png" width="1000" title="logo" alt="Theme-Me" style="display: inline-block; margin: 0 auto;">
+</div>
 
 ## Informasi
 <a href="#">
