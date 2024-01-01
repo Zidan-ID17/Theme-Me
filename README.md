@@ -4,7 +4,7 @@
 
 ## Informasi
 <a href="#">
-  <img src="https://img.shields.io/badge/Author%20By-Zidan%20IDz-%23FF0000?style=for-the-badge&logo=github" alt="Build">
+  <img src="https://img.shields.io/badge/Coded%20By-Zidan%20IDz-%23FF0000?style=for-the-badge&logo=github" alt="Build">
 </a><br>
 
 <a href="https://link-ke-halaman-tema">
