@@ -27,5 +27,5 @@ alt="theme_menu">
 </div>
 
 
-## Instalasi 
+## Pemasangan
 Anda dapat mengunjungi [Channel Ini](https://www.youtube.com/@ZeyShyy.).
