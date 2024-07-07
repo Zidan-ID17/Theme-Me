@@ -16,9 +16,9 @@
 </a>
 
 ## Deskripsi
-"Theme-Me" adalah sebuah tool sederhana yang dibuat khusus untuk meningkatkan pengalaman pengguna Termux. Dengan menyediakan opsi untuk mengubah tema, font, dan latar belakang, pengguna dapat secara kreatif menyesuaikan tampilan terminal mereka, menciptakan lingkungan yang lebih menarik dan sesuai dengan preferensi masing-masing.<br>
+"Theme-Me" adalah tools sederhana yang dibuat untuk meningkatkan pengalaman pengguna Termux. Dengan alat ini, Kalian dapat mengubah tema, font, dan latar belakang terminal sesuai keinginan. Meskipun fitur-fitur saat ini mungkin masih terbatas, saya berencana untuk menambahkan fitur-fitur yang lebih menarik di masa mendatang..<br>
 
-[!] Pembaruan sedang dikerjakan
+[!] Stay Tune!!
 
 ## Gambar
 <div style="display: flex; justify-content: space-between;">
