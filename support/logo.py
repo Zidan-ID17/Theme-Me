@@ -1,4 +1,6 @@
-# Credit By Zidan IDz
+#!/usr/bin/env python3
+#Theme-Me/support/lib.py
+#Credit By Zidan IDz
 from lib import merah, putih, abu, pxm, netral, kuning
 
 
