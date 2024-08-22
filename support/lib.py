@@ -18,7 +18,7 @@ mxp = '\033[91;47m'
 pxm = '\033[97;41m'
 axh = '\033[30;100m'
 pxh = '\033[30;47m'
-bersih = '\033[0m'
+netral = '\033[0m'
 ver = "v1.0.1"
 url = "https://api.github.com/repos/Zidan-ID17/Theme-Me/releases" 
 
