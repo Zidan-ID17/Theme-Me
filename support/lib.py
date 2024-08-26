@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #Theme-Me/support/lib.py
 #Credit By Zidan IDz
