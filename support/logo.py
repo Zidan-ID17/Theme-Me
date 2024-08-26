@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
-#Theme-Me/support/lib.py
+# -*- coding: utf-8 -*-
+#Theme-Me/support/logo.py
 #Credit By Zidan IDz
 from lib import merah, putih, abu, pxm, pxh, netral, kuning
 
