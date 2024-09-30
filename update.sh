@@ -1,11 +1,26 @@
-#!/bin/bash
+import os
+import subprocess
+import sys
 
-cd "$(dirname "$0")" || exit
+def main():
+    theme_me_dir = '../Theme-Me'
 
-if [ -d "../Theme-Me" ]; then
-    rm -rf ../Theme-Me
-fi
+    if os.path.exists(theme_me_dir):
+        print(f"Menghapus folder lama: {theme_me_dir}")
+        os.system(f"rm -rf {theme_me_dir}")
 
-git clone https://github.com/Zidan-ID17/Theme-Me ../Theme-Me || { echo "Failed to clone repository"; exit 1; }
+    print("Meng-clone repository...")
+    result = subprocess.run(['git', 'clone', 'https://github.com/Zidan-ID17/Theme-Me'], 
+                            stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
-cd ../Theme-Me || { echo "Failed to enter Theme-Me directory"; exit 1; }
+    if result.returncode != 0:
+        print("Gagal meng-clone repository:")
+        print(result.stderr.decode())
+        sys.exit(1)
+
+    os.chdir(theme_me_dir)
+
+    print("Update berhasil!")
+
+if __name__ == "__main__":
+    main()
