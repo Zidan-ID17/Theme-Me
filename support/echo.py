@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Theme-Me/support/logo.py
+# Theme-Me/support/echo.py
 # Credit By Zidan IDz
 
 
