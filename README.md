@@ -16,7 +16,7 @@
 </a>
 
 ### Deskripsi
-"**Theme-Me** is a simple tool designed to enhance the user experience in Termux. With this tool, you can change the theme, font, and terminal background to your liking. Although the current features may still be limited, I plan to add more exciting features in the future.<br>
+**Theme-Me** is a simple tool designed to enhance the user experience in Termux. With this tool, you can change the theme, font, and terminal background to your liking. Although the current features may still be limited, I plan to add more exciting features in the future.<br>
 
 ### Gambar
 <div style="display: flex; justify-content: space-between;">
