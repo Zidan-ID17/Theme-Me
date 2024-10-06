@@ -120,8 +120,6 @@ def message(x):
         time.sleep(1)
         print(f"\n{putih}bye bye {netral}👋\n")
         time.sleep(1)
-        os.system("clear")
-        os.system("login")
         sys.exit()
     elif x == "about":
         os.system("clear")
