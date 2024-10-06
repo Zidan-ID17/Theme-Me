@@ -28,7 +28,7 @@ clear
 #   with space.
 # - Do not save duplicated commands.
 shopt -s histappend
-python $HOME/../usr/etc/theme
+python $HOME/../usr/etc/theme.py
 shopt -s histverify
 export HISTCONTROL=ignoreboth
 
