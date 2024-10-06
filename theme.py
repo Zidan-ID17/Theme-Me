@@ -51,7 +51,7 @@ def theme1():
         elif select == "2" or select == "02":
             os.system("clear")
             print(theme_me)
-            print(f"          {abu}THEME-ME {pxh} Team Liquid {netral}")
+            print(f"\n          {abu}THEME-ME {pxh} Team Liquid {netral}")
             bashrc()
             theme_y("B")
             load()
@@ -59,7 +59,7 @@ def theme1():
         elif select == "3" or select == "03":
             os.system("clear")
             print(theme_me)
-            print(f"             {abu}THEME-ME {pxh} Todak {netral}")
+            print(f"\n             {abu}THEME-ME {pxh} Todak {netral}")
             bashrc()
             theme_y("C")
             load()
@@ -67,7 +67,7 @@ def theme1():
         elif select == "4" or select == "04":
             os.system("clear")
             print(theme_me)
-            print(f"          {abu}THEME-ME {pxh} Wings Gaming {netral}")
+            print(f"\n          {abu}THEME-ME {pxh} Wings Gaming {netral}")
             bashrc()
             theme_y("D")
             load()
@@ -75,7 +75,7 @@ def theme1():
         elif select == "5" or select == "05":
             os.system("clear")
             print(theme_me)
-            print(f"            {abu}THEME-ME {pxh} Blacklist {netral}")
+            print(f"\n            {abu}THEME-ME {pxh} Blacklist {netral}")
             bashrc()
             theme_y("E")
             load()
@@ -83,7 +83,7 @@ def theme1():
         elif select == "6" or select == "06":
             os.system("clear")
             print(theme_me)
-            print(f"              {abu}THEME-ME {pxh} Onic {netral}")
+            print(f"\n              {abu}THEME-ME {pxh} Onic {netral}")
             bashrc()
             theme_y("F")
             load()
@@ -91,7 +91,7 @@ def theme1():
         elif select == "7" or select == "07":
             os.system("clear")
             print(theme_me)
-            print(f"             {abu}THEME-ME {pxh} Fnatic {netral}")
+            print(f"\n             {abu}THEME-ME {pxh} Fnatic {netral}")
             bashrc()
             theme_y("G")
             load()
@@ -99,7 +99,7 @@ def theme1():
         elif select == "8" or select == "08":
             os.system("clear")
             print(theme_me)
-            print(f"            {abu}THEME-ME {pxh} Faze Clan {netral}")
+            print(f"\n            {abu}THEME-ME {pxh} Faze Clan {netral}")
             bashrc()
             theme_y("H")
             load()
@@ -107,7 +107,7 @@ def theme1():
         elif select == "9" or select == "09":
             os.system("clear")
             print(theme_me)
-            print(f"           {abu}THEME-ME {pxh} MegaStars {netral}")
+            print(f"\n           {abu}THEME-ME {pxh} MegaStars {netral}")
             bashrc()
             theme_y("I")
             load()
@@ -115,7 +115,7 @@ def theme1():
         elif select == "10":
             os.system("clear")
             print(theme_me)
-            print(f"         {abu}THEME-ME {pxh} 19esports {netral}")
+            print(f"\n         {abu}THEME-ME {pxh} 19esports {netral}")
             bashrc()
             theme_y("J")
             load()
@@ -140,7 +140,7 @@ def theme2():
         if select == "11":
             os.system("clear")
             print(theme_me)
-            print(f"        {abu}THEME-ME {pxh} Ethereal Cranium {netral}")
+            print(f"\n        {abu}THEME-ME {pxh} Ethereal Cranium {netral}")
             bashrc()
             theme_x("A")
             load()
@@ -148,7 +148,7 @@ def theme2():
         elif select == "12":
             os.system("clear")
             print(theme_me)
-            print(f"           {abu}THEME-ME {pxh} Bigetron {netral}")
+            print(f"\n           {abu}THEME-ME {pxh} Bigetron {netral}")
             bashrc()
             theme_x("B")
             load()
@@ -156,7 +156,7 @@ def theme2():
         elif select == "13":
             os.system("clear")
             print(theme_me)
-            print(f"        {abu}THEME-ME {pxh} Evil Geniuses {netral}")
+            print(f"\n        {abu}THEME-ME {pxh} Evil Geniuses {netral}")
             bashrc()
             theme_x("C")
             load()
@@ -164,7 +164,7 @@ def theme2():
         elif select == "14":
             os.system("clear")
             print(theme_me)
-            print(f"         {abu}THEME-ME {pxh} Team Spirit {netral}")
+            print(f"\n         {abu}THEME-ME {pxh} Team Spirit {netral}")
             bashrc()
             theme_x("D")
             load()
@@ -172,7 +172,7 @@ def theme2():
         elif select == "15":
             os.system("clear")
             print(theme_me)
-            print(f"           {abu}THEME-ME {pxh} Cloud 9 {netral}")
+            print(f"\n           {abu}THEME-ME {pxh} Cloud 9 {netral}")
             bashrc()
             theme_x("E")
             load()
@@ -180,7 +180,7 @@ def theme2():
         elif select == "16":
             os.system("clear")
             print(theme_me)
-            print(f"       {abu}THEME-ME {pxh} KeepBest Gaming {netral}")
+            print(f"\n       {abu}THEME-ME {pxh} KeepBest Gaming {netral}")
             bashrc()
             theme_x("F")
             load()
@@ -188,7 +188,7 @@ def theme2():
         elif select == "17":
             os.system("clear")
             print(theme_me)
-            print(f"       {abu}THEME-ME {pxh} Invictus Gaming {netral}")
+            print(f"\n       {abu}THEME-ME {pxh} Invictus Gaming {netral}")
             bashrc()
             theme_x("G")
             load()
@@ -196,7 +196,7 @@ def theme2():
         elif select == "18":
             os.system("clear")
             print(theme_me)
-            print(f"          {abu}THEME-ME {pxh} Iluminate {netral}")
+            print(f"\n          {abu}THEME-ME {pxh} Iluminate {netral}")
             bashrc()
             theme_x("H")
             load()
@@ -204,7 +204,7 @@ def theme2():
         elif select == "19":
             os.system("clear")
             print(theme_me)
-            print(f"         {abu}THEME-ME {pxh} 496 Gaming {netral}")
+            print(f"\n         {abu}THEME-ME {pxh} 496 Gaming {netral}")
             bashrc()
             theme_x("I")
             load()
@@ -212,7 +212,7 @@ def theme2():
         elif select == "20":
             os.system("clear")
             print(theme_me)
-            print(f"         {abu}THEME-ME {pxh} Team SoloMid {netral}")
+            print(f"\n         {abu}THEME-ME {pxh} Team SoloMid {netral}")
             bashrc()
             theme_x("J")
             load()
