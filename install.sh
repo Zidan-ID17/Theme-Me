@@ -5,4 +5,4 @@ sleep 1
 pkg install nano
 pkg install python
 pip install requests
-exit 1
+python umbrella.py
