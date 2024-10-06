@@ -8,7 +8,7 @@
 </a><br>
 
 <a href="https://link-ke-halaman-tema">
-  <img src="https://img.shields.io/badge/Version-Beta(0.0.5)-%23FF0000.svg?maxAge=259200" alt="Build">
+  <img src="https://img.shields.io/badge/Version-Beta(0.3.5)-%23FF0000.svg?maxAge=259200" alt="Build">
 </a>
 
 <a>
@@ -16,9 +16,7 @@
 </a>
 
 ### Deskripsi
-"**Theme-Me**" adalah tools sederhana yang dibuat untuk meningkatkan pengalaman pengguna Termux. Dengan alat ini, Kalian dapat mengubah tema, font, dan latar belakang terminal sesuai keinginan. Meskipun fitur-fitur saat ini mungkin masih terbatas, saya berencana untuk menambahkan fitur-fitur yang lebih menarik di masa mendatang..<br>
-
-[!] Stay Tune!!
+"**Theme-Me** is a simple tool designed to enhance the user experience in Termux. With this tool, you can change the theme, font, and terminal background to your liking. Although the current features may still be limited, I plan to add more exciting features in the future.<br>
 
 ### Gambar
 <div style="display: flex; justify-content: space-between;">
