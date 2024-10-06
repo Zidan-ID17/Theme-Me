@@ -82,7 +82,7 @@ def message(x):
         time.sleep(0.5)
         print(f"\n\n{abu}[{kuning}*{abu}] if You want to exit press CTRL + Z")
         time.sleep(1)
-        input(f"{abu} press enter to return ..")
+        input(f"\n{abu} press enter to return ..")
         return
     elif x == "background":
         os.system("clear")
@@ -95,7 +95,7 @@ def message(x):
         time.sleep(0.5)
         print(f"\n\n{abu}[{kuning}*{abu}] if You want to exit press CTRL + Z")
         time.sleep(1)
-        input(f"{abu} press enter to continue ..")
+        input(f"\n{abu} press enter to continue ..")
         return
     elif x == "theme":
         os.system("clear")
@@ -108,7 +108,7 @@ def message(x):
         time.sleep(0.5)
         print(f"\n\n{abu}[{kuning}*{abu}] if You want to exit press CTRL + Z")
         time.sleep(1)
-        input(f"{abu} press enter to return ..")
+        input(f"\n{abu} press enter to return ..")
         return
     elif x == "wrong":
         print(f"\n{putih}please input the correct choice [{merah}!{putih}]")
@@ -126,7 +126,7 @@ def message(x):
     elif x == "about":
         os.system("clear")
         print(note)
-        os.system("pause")
+        input(f"\n{abu} press enter to return ..")
         return
     if x == "coming":
         os.system("clear")
@@ -136,7 +136,7 @@ def message(x):
         time.sleep(1)
         print(f"{abu}[{hijau}~{abu}] this function will be added in the next update")
         time.sleep(1)
-        input(f"{abu} press enter to return ..")
+        input(f"\n{abu} press enter to return ..")
         return
     else:
         return
