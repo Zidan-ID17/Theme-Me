@@ -9,8 +9,8 @@ from main.theme_y import theme_y
 from main.theme_x import theme_x
 from main.font_y import font_y
 from main.font_x import font_x
-from background_x import background_x
-from background_y import background_y 
+from main.background_x import background_x
+from main.background_y import background_y 
 
 def main():
 	while True:
