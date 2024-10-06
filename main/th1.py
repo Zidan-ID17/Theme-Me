@@ -9,7 +9,7 @@ from support.lib import load, message
 def th1():
     os.system("clear")
     print(theme_me)
-    print(f"\n          {abu}THEME-ME {pxh} Infernal Reaper{netral}")
+    print(f"          {abu}THEME-ME {pxh} Infernal Reaper{netral}")
     print(f"\n{putih}({kuning}*{putih}) {abu}'username' and 'team name' will be displayed below the logo")
     username = input(f"\n{putih}enter username   {hijau}>{putih} ")
     while not username.strip() or '"' in username or "'" in username:
