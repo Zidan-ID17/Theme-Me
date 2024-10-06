@@ -28,7 +28,7 @@ theme_me = (f"""
 {merah}   ╚═╝   ╚═╝  ╚═╝╚══════╝{putih}╚═╝     ╚═╝╚══════╝
 {abu}               .: B E T A :.
 
-{kuning} —• {putih}Author  : {pxm} ZidanIDz {netral}
+{kuning} • {putih}Author  : {pxm} ZidanIDz {netral}
 {kuning} • {putih}YouTube : ZeyShyy.
 {kuning} • {putih}Github  : https://github.com/Zidan-ID17 
 {abu}——————————————————————————————————————————""")
