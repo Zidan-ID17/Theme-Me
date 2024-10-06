@@ -8,21 +8,21 @@ from support.echo import theme_me, abu, pxh, netral, putih, kuning, hijau, merah
 def th1():
     os.system("clear")
     print(theme_me)
-    print(f"          {abu}THEME-ME {pxh} Infernal Reaper{netral}")
-    print(f"{putih}({kuning}*{putih}) {abu}'username' and 'team name' will be displayed below the logo")
+    print(f"\n          {abu}THEME-ME {pxh} Infernal Reaper{netral}")
+    print(f"\n{putih}({kuning}*{putih}) {abu}'username' and 'team name' will be displayed below the logo")
     username = input(f"\n{putih}enter username   {hijau}>{putih} ")
     while not username.strip() or '"' in username or "'" in username:
         print(f"{abu}({merah}X{abu}) must not be blank or contain quotation marks {merah}!!")
         username = input(f"\n{putih}enter username   {hijau}>{putih} ")
         continue
     time.sleep(0.5)
-    team = input(f"\n{putih}enter team name  {hijau}>{putih}")
+    team = input(f"\n{putih}enter team name  {hijau}>{putih} ")
     while not team.strip() or '"' in team or "'" in team:
         print(f"{abu}({merah}X{abu}) must not be blank or contain quotation marks {merah}!!")
-        team = input(f"\n{putih}enter team name  {hijau}>{putih}")
+        team = input(f"\n{putih}enter team name  {hijau}>{putih} ")
         continue
     file = "theme.py"
-    fill = """#Created with the THEME-ME coded by Zidan IDz 
+    fill = """#Created with the THEME-ME, coded by Zidan IDz 
 import os, sys, time
 
 def run(a):
