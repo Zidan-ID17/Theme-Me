@@ -43,7 +43,7 @@ def theme1():
         if select == "1" or select == "01":
             os.system("clear")
             print(theme_me)
-            print(f"          {abu}THEME-ME {pxh} Infernal Reaper {netral}")
+            print(f"\n          {abu}THEME-ME {pxh} Infernal Reaper {netral}")
             bashrc()
             theme_y("A")
             load()
