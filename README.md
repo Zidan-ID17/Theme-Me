@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/Language-Python-%23FF0000.svg" alt="Build">
 </a>
 
+<a>
+  <img src="https://img.shields.io/badge/Environment-Termux-%23FF0000.svg" alt="Termux">
+</a>
+
 ### • Description
 **Theme-Me** is a simple tool designed to enhance the user experience in **Termux**. With this tool, you can customize the theme, font, and terminal background to suit your preferences. Although the current features are limited, I plan to add more exciting features in the future.<br>
 
