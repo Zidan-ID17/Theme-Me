@@ -13,25 +13,29 @@ from main.background_x import background_x
 from main.background_y import background_y 
 
 def main():
-	while True:
-		os.system("clear")
-		runntxt(theme_me)
-		print(m_pg)
-		select = input(f"{putih}[select options]{hijau} > ").lower()
-		if select == "theme":
-			theme1()
-		elif select == "font":
-			font1()
-		elif select == "background":
-			background1()
-		elif select == "restore":
-			message("coming")
-		elif select == "about":
-			message("about")
-		elif select == "exit":
-			message("exit")
-		else:
-			message("wrong")
+    while True:
+        os.system("clear")
+        runntxt(theme_me)
+        print(m_pg)
+        select = input(f"{putih}[select options]{hijau} > ").lower()
+        if select == "theme":
+            theme1()
+        elif select == "font":
+            font1()
+        elif select == "background":
+            background1()
+        elif select == "restore":
+            message("coming")
+        elif select == "feedback":
+            os.system("xdg-open https://forms.gle/GNXkzSNYLQWh1N5q7")
+            input(f"\n{abu} press enter to return ..")
+        elif select == "about":
+            message("about")
+        elif select == "exit":
+            message("exit")
+        else:
+            message("wrong")
+
 
 def theme1():
     while True:
@@ -337,7 +341,7 @@ def font2():
 
 
 if __name__ == "__main__":
-    now = "v0.3.5"
+    now = "v0.3.7"
     version(now)
     entry()
     main()
