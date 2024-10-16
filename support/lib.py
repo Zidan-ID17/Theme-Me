@@ -6,7 +6,7 @@ from .echo import theme_me, note
 from .echo import merah, putih, pxh, hijau, oren, netral, kuning, abu
 
 
-now = "v0.3.5"
+now = "v0.3.7"
 url = "https://api.github.com/repos/Zidan-ID17/Theme-Me/releases"
 
 
