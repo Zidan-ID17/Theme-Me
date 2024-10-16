@@ -2,7 +2,7 @@
   <img src="img/logo.png" width="700" title="logo" alt="Theme-Me" style="display: inline-block; margin: 0 auto;">
 </div>
 
-### Information
+### • Information
 <a href="#">
   <img src="https://img.shields.io/badge/Author-Zidan%20IDz-%23FF0000?style=for-the-badge&logo=github" alt="Build">
 </a><br>
@@ -15,10 +15,10 @@
   <img src="https://img.shields.io/badge/Language-Python-%23FF0000.svg" alt="Build">
 </a>
 
-### Description
-**Theme-Me** is a simple tool designed to enhance the user experience in Termux. With this tool, you can change the theme, font, and terminal background to your liking. Although the current features may still be limited, I plan to add more exciting features in the future.<br>
+### • Description
+**Theme-Me** is a simple tool designed to enhance the user experience in **Termux**. With this tool, you can customize the theme, font, and terminal background to suit your preferences. Although the current features are limited, I plan to add more exciting features in the future.<br>
 
-### Tools Usage Commands
+### • Tools Usage Commands
 ```bash
 $ pkg install git
 
@@ -30,7 +30,7 @@ $ bash install.sh
 ```
 If something is unclear, you can watch this video [Theme-Me](https://www.youtube.com/@ZeyShyy.).
 
-### Theme-Me Image
+### • Theme-Me Image
 <div style="display: flex; justify-content: space-between;">
   <img src="img/img1.png" width="125" title="main" 
 alt="main_menu">
