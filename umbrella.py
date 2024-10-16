@@ -2,15 +2,8 @@
 # Theme-Me/umbrella.py
 # Credit by Zidan IDz
 import os, sys, time
-from support.lib import version, message, entry, runntxt, load
-from support.echo import putih, hijau, pxh, merah, abu, netral, theme_me, m_pg, th1_pg, th2_pg, bkg1_pg, bkg2_pg, fnt1_pg, fnt2_pg
-from main.bashrc import bashrc
-from main.theme_y import theme_y
-from main.theme_x import theme_x
-from main.font_y import font_y
-from main.font_x import font_x
-from main.background_x import background_x
-from main.background_y import background_y 
+from support import *
+from main import *
 
 def main():
     while True:
