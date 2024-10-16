@@ -32,7 +32,7 @@ $ cd Theme-Me
 
 $ bash install.sh
 ```
-If something is unclear, you can watch this video [Theme-Me](https://www.youtube.com/@ZeyShyy.).
+If something is unclear, you can watch this video [Theme-Me]([https://www.youtube.com/@ZeyShyy.](https://youtu.be/P6VTzkdHZms?si=MAgEfG8eeBOTB845)).
 
 ### • Theme-Me Image
 <div style="display: flex; justify-content: space-between;">
