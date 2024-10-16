@@ -26,11 +26,7 @@ theme_me = (f"""
 {merah}   ██║   ██╔══██║██╔══╝  {putih}██║╚██╔╝██║██╔══╝  
 {merah}   ██║   ██║  ██║███████╗{putih}██║ ╚═╝ ██║███████╗
 {merah}   ╚═╝   ╚═╝  ╚═╝╚══════╝{putih}╚═╝     ╚═╝╚══════╝
-{abu}               .: B E T A :.
-
-{kuning} • {putih}Author  : {pxm} ZidanIDz {netral}
-{kuning} • {putih}YouTube : ZeyShyy.
-{kuning} • {putih}Github  : https://github.com/Zidan-ID17 
+       {pxh}  Terminal Theme by ZidanIDz  {netral}
 {abu}——————————————————————————————————————————""")
 
 m_pg = (f"""{putih}              <[{pxm} THEME-ME {netral}{putih}]>
@@ -190,7 +186,7 @@ note = (f"""{abu}
 ║ some options may not be complete because this ║
 ║ tool's still a BETA current.                  ║
 ║                                               ║
-║ >> current version is {putih}BETA {abu}({kuning}0.3.5{abu})            ║
+║ >> current version is {putih}BETA {abu}({kuning}0.3.7{abu})            ║
 ╚═══════════════════════════════════════════════╝
 credit by Zidan IDz
 """)
